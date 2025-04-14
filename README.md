@@ -21,16 +21,6 @@ First generate the test data
 ```bash
 python generate_test_data.py --input <path-to-panorama> --sections <num-sections> --overlap <overlap-percentage>
 ```
-Test the stitching code on the generated test data
-```bash
-python test_panorama.py --method sift --no-display --verbose                
-```
-or using metadata
-
-```bash
-python test_panorama.py --method metadata --no-display --verbose                
-```
-
 
 ### Arguments
 
@@ -43,6 +33,17 @@ python test_panorama.py --method metadata --no-display --verbose
 ```bash
 python generate_test_data.py --input original.jpg --sections 10 --overlap 40
 ```
+### Testing 
+Test the stitching code on the generated test data
+```bash
+python test_panorama.py --method sift --no-display --verbose                
+```
+or using metadata
+
+```bash
+python test_panorama.py --method metadata --no-display --verbose                
+```
+
 
 ## Output Structure
 
