@@ -1,0 +1,184 @@
+{
+  "parameters": {
+    "original_image": "original.jpg",
+    "width": 17458,
+    "height": 2904,
+    "num_sections": 10,
+    "overlap_percent": 40,
+    "section_width": 2727,
+    "overlap_width": 1090,
+    "step_size": 1637
+  },
+  "images": [
+    {
+      "filename": "section_00.jpg",
+      "position": [
+        0,
+        0
+      ],
+      "dimensions": {
+        "width": 2727,
+        "height": 2904
+      },
+      "overlap": {
+        "left": false,
+        "right": true,
+        "left_pixels": 0,
+        "right_pixels": 1090
+      }
+    },
+    {
+      "filename": "section_01.jpg",
+      "position": [
+        1637,
+        0
+      ],
+      "dimensions": {
+        "width": 2727,
+        "height": 2904
+      },
+      "overlap": {
+        "left": true,
+        "right": true,
+        "left_pixels": 1090,
+        "right_pixels": 1090
+      }
+    },
+    {
+      "filename": "section_02.jpg",
+      "position": [
+        3274,
+        0
+      ],
+      "dimensions": {
+        "width": 2727,
+        "height": 2904
+      },
+      "overlap": {
+        "left": true,
+        "right": true,
+        "left_pixels": 1090,
+        "right_pixels": 1090
+      }
+    },
+    {
+      "filename": "section_03.jpg",
+      "position": [
+        4911,
+        0
+      ],
+      "dimensions": {
+        "width": 2727,
+        "height": 2904
+      },
+      "overlap": {
+        "left": true,
+        "right": true,
+        "left_pixels": 1090,
+        "right_pixels": 1090
+      }
+    },
+    {
+      "filename": "section_04.jpg",
+      "position": [
+        6548,
+        0
+      ],
+      "dimensions": {
+        "width": 2727,
+        "height": 2904
+      },
+      "overlap": {
+        "left": true,
+        "right": true,
+        "left_pixels": 1090,
+        "right_pixels": 1090
+      }
+    },
+    {
+      "filename": "section_05.jpg",
+      "position": [
+        8185,
+        0
+      ],
+      "dimensions": {
+        "width": 2727,
+        "height": 2904
+      },
+      "overlap": {
+        "left": true,
+        "right": true,
+        "left_pixels": 1090,
+        "right_pixels": 1090
+      }
+    },
+    {
+      "filename": "section_06.jpg",
+      "position": [
+        9822,
+        0
+      ],
+      "dimensions": {
+        "width": 2727,
+        "height": 2904
+      },
+      "overlap": {
+        "left": true,
+        "right": true,
+        "left_pixels": 1090,
+        "right_pixels": 1090
+      }
+    },
+    {
+      "filename": "section_07.jpg",
+      "position": [
+        11459,
+        0
+      ],
+      "dimensions": {
+        "width": 2727,
+        "height": 2904
+      },
+      "overlap": {
+        "left": true,
+        "right": true,
+        "left_pixels": 1090,
+        "right_pixels": 1090
+      }
+    },
+    {
+      "filename": "section_08.jpg",
+      "position": [
+        13096,
+        0
+      ],
+      "dimensions": {
+        "width": 2727,
+        "height": 2904
+      },
+      "overlap": {
+        "left": true,
+        "right": true,
+        "left_pixels": 1090,
+        "right_pixels": 1090
+      }
+    },
+    {
+      "filename": "section_09.jpg",
+      "position": [
+        14731,
+        0
+      ],
+      "dimensions": {
+        "width": 2727,
+        "height": 2904
+      },
+      "overlap": {
+        "left": true,
+        "right": false,
+        "left_pixels": 1090,
+        "right_pixels": 0
+      }
+    }
+  ]
+}
