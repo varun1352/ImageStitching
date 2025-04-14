@@ -1,15 +1,9 @@
-# Panorama Section Generator
-
-A robust tool for splitting panoramic images into overlapping sections with consistent coverage and overlap, designed for panorama reconstruction and stitching applications.
-
-
-
 ## Installation
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/varun1352/ImageStitching
+cd ImageStitching
 
 # Create and activate virtual environment
 python -m venv ptz_env
@@ -94,7 +88,7 @@ The generated `metadata.json` contains detailed information about the splitting 
 ### Stitching using Metadata
 ![Split Sections](docs/images/panorama_metadata.jpg)
 
-### Overlap Features (SIFT)
+### Stitching using Features (SIFT)
 ![Overlap Visualization](docs/images/panorama_sift.jpg)
 
 ## Technical Details
